@@ -1,6 +1,6 @@
  class main{
  
- public  m2(){
+ public  m3(){
 
 }
 
